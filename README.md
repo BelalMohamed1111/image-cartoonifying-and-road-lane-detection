@@ -7,8 +7,6 @@ This repository contains a two-part computer vision project focused on image sty
 * [Part I: Image Cartoonifying](#part-i-image-cartoonifying)
 * [Part II: Road Lane Detection](#part-ii-road-lane-detection)
 * [Project Structure](#project-structure)
-* [Installation & Setup](#installation--setup)
-* [Author](#author)
 
 ---
 
@@ -55,3 +53,4 @@ image-cartoonifying-and-road-lane-detection/
 │   └── assets/
 ├── requirements.txt
 └── README.md
+
